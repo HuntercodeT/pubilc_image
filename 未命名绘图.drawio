@@ -1,9 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2023-11-26T02:09:57.644Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.4" etag="7ds84TaS5RkyGkdZoSx4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-26T02:20:11.937Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="YeXatosBP-clUD64eMqA" version="22.1.4" type="github">
   <diagram name="第 1 页" id="_bw-juJUCptMjK08bWaY">
-    <mxGraphModel>
+    <mxGraphModel dx="1026" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LAWaTaJDmOyT-GOJMX9I-1" value="Volume Group" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.datastore_volume;" vertex="1" parent="1">
+          <mxGeometry x="270" y="190" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LAWaTaJDmOyT-GOJMX9I-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;targetPerimeterSpacing=20;" edge="1" parent="1" source="LAWaTaJDmOyT-GOJMX9I-2" target="LAWaTaJDmOyT-GOJMX9I-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="280" />
+              <mxPoint x="375" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LAWaTaJDmOyT-GOJMX9I-2" value="pv" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#DBDBDB;" vertex="1" parent="1">
+          <mxGeometry x="270" y="308" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LAWaTaJDmOyT-GOJMX9I-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;targetPerimeterSpacing=20;" edge="1" parent="1" source="LAWaTaJDmOyT-GOJMX9I-3" target="LAWaTaJDmOyT-GOJMX9I-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LAWaTaJDmOyT-GOJMX9I-3" value="pv" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#DBDBDB;" vertex="1" parent="1">
+          <mxGeometry x="355" y="308" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LAWaTaJDmOyT-GOJMX9I-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;targetPerimeterSpacing=20;" edge="1" parent="1" source="LAWaTaJDmOyT-GOJMX9I-5" target="LAWaTaJDmOyT-GOJMX9I-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="280" />
+              <mxPoint x="375" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LAWaTaJDmOyT-GOJMX9I-5" value="pv" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#DBDBDB;" vertex="1" parent="1">
+          <mxGeometry x="440" y="308" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LAWaTaJDmOyT-GOJMX9I-12" value="lv" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#DBDBDB;" vertex="1" parent="1">
+          <mxGeometry x="270" y="70" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LAWaTaJDmOyT-GOJMX9I-14" value="lv" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#DBDBDB;" vertex="1" parent="1">
+          <mxGeometry x="440" y="70" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LAWaTaJDmOyT-GOJMX9I-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;targetPerimeterSpacing=20;" edge="1" parent="1" source="LAWaTaJDmOyT-GOJMX9I-1" target="LAWaTaJDmOyT-GOJMX9I-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LAWaTaJDmOyT-GOJMX9I-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;targetPerimeterSpacing=50;" edge="1" parent="1" source="LAWaTaJDmOyT-GOJMX9I-1" target="LAWaTaJDmOyT-GOJMX9I-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
